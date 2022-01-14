@@ -1,11 +1,14 @@
-# Jeu_Domino
-Création d'un jeu de dominos en python avec une IHM en PyQT
+# Domino game
 
-Programation orientée objet répartie en 3 classes :
-- Classe d'initialisation
-- Classe de calcule
-- Classe de tests
+## 🎯 Introduction 
+Creation of a domino game in Python with a PyQT GUI
 
-2 Modes de jeu :
-- 1 joueur vs 1 joueur
-- 1 joueur vs computer
+## 👨‍💻 Program structure
+Object-oriented programming divided into 3 classes:
+- Initialization class
+- Calculation class
+- Test class
+
+2 Game Modes :
+- 1 player vs 1 player
+- 1 player vs computer
